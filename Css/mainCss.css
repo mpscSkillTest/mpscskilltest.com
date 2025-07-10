@@ -1,0 +1,26 @@
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+  /* background: grey; */
+  /* text-decoration: line-through;  */
+}
+
+.default {
+  color: black;
+}
+.highlight {
+  background-color: yellow;
+}
+
+/* .bg-img-testDashboard {
+  background-image: url('../assets/bg_img.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid red;
+} */
+
+/* C:\MAMP\htdocs\TypingTestNew\assests */
